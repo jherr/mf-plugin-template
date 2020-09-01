@@ -1,7 +1,7 @@
 Module Federation Plugin Template
 =================================
 
-This is a simple template for building federated module for plugins that are compatiable with `mf-plugins`.
+This is a simple template for building federated module for plugins that are compatiable with [mf-plugins](https://www.npmjs.com/package/mf-plugins).
 
 To use this template first degit it:
 
